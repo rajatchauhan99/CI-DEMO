@@ -17,4 +17,3 @@ z = mul(10, 2)
 print(x)
 print(y)
 print(z)
-
